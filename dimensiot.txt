@@ -1,0 +1,18 @@
+protoboard: 37 x 25 x 1.5mm
+
+mpu: 26 x 16 x 1.5mm
+mpu-proto_suurempi_pitkittäisetäisyys: 9.5mm
+mpu-proto_suurempi_sivuetäisyys: 5.5mm
+mpu+proto_korkeus: 8.5mm
+
+avr: 18 x 32.5 x 1.5mm
+avr-proto_suurempi_pitkittäisetäisyys: 2mm
+avr-proto_suurempi_sivuetäisyys: 5mm
+avr+proto_korkeus: 9mm
+
+avr_micro_usb: 8 x 2.5mm
+avr_micro_usb_ulkonema: 2mm
+avr_micro_usb_etäisyys_piikkirimasta: 3mm
+avr_micro_sub_etäisyys_avr_oikea: 5mm
+
+total korkeus: 19mm
